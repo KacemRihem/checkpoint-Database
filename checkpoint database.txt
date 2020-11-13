@@ -1,0 +1,13 @@
+MySQL:
+MySQL est un système de gestion de base de données relationnelle basé sur le langage de requête structuré, qui est le langage populaire pour accéder et gérer les enregistrements de la base de données. MySQL est un logiciel libre et open source sous licence GNU. Il est pris en charge par Oracle Company .
+Première version: 23 mai 1995
+Dernière version: 8.0.19 (9 décembre 2019)1
+		  5.7.29 (18 décembre 2019)2
+
+PostgreSQL:
+PostgreSQL est une base de données SQL open source qui n'est contrôlée par aucune société. Il est généralement utilisé pour le développement d'applications Web.
+PostgreSQL partage plusieurs des mêmes avantages que MySQL. Il est facile à utiliser, peu coûteux, fiable et dispose d'une large communauté de développeurs. Il fournit également des fonctionnalités supplémentaires telles que la prise en charge des clés étrangères sans nécessiter de configuration complexe.
+
+
+SQLserver:
+SQL Server est un système de gestion de base de données (SGBD) en langage SQL incorporant entre autres un SGBDR  développé et commercialisé par la société Microsoft. Il fonctionne sous les OS Windows et Linux (depuis mars 2016), mais il est possible de le lancer sur Mac OS via Docker, car il en existe une version en téléchargement sur le site de Microsoft1.
